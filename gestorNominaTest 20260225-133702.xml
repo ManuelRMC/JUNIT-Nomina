@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="gestorNominaTest" project="edu.nomina" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="controladores.gestorNominaTest" time="0.028" displayname="gestorNominaTest" uniqueid="[engine:junit-jupiter]/[class:controladores.gestorNominaTest]">
+    <testcase name="test2a" classname="controladores.gestorNominaTest" time="0.021" displayname="test2a()" uniqueid="[engine:junit-jupiter]/[class:controladores.gestorNominaTest]/[method:test2a()]"/>
+    <testcase name="test2b" classname="controladores.gestorNominaTest" time="0.001" displayname="test2b()" uniqueid="[engine:junit-jupiter]/[class:controladores.gestorNominaTest]/[method:test2b()]"/>
+    <testcase name="test2c" classname="controladores.gestorNominaTest" time="0.001" displayname="test2c()" uniqueid="[engine:junit-jupiter]/[class:controladores.gestorNominaTest]/[method:test2c()]"/>
+    <testcase name="test3a" classname="controladores.gestorNominaTest" time="0.001" displayname="test3a()" uniqueid="[engine:junit-jupiter]/[class:controladores.gestorNominaTest]/[method:test3a()]"/>
+    <testcase name="test3b" classname="controladores.gestorNominaTest" time="0.001" displayname="test3b()" uniqueid="[engine:junit-jupiter]/[class:controladores.gestorNominaTest]/[method:test3b()]"/>
+    <testcase name="test1" classname="controladores.gestorNominaTest" time="0.001" displayname="test1()" uniqueid="[engine:junit-jupiter]/[class:controladores.gestorNominaTest]/[method:test1()]"/>
+    <testcase name="test4" classname="controladores.gestorNominaTest" time="0.001" displayname="test4()" uniqueid="[engine:junit-jupiter]/[class:controladores.gestorNominaTest]/[method:test4()]"/>
+  </testsuite>
+</testrun>
